@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: rgba(24, 210, 110, 1);
+  color: rgba(0, 0, 0, 1);
   font-size: 16px;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
